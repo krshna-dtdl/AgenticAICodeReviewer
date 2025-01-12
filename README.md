@@ -1,4 +1,4 @@
-# Code Review Agent Executor
+# Intelligent Code Review and Correction using Agentic AI.
 
 This repository contains a toolset for reviewing Python code against PlantUML (PUML) designs. The solution integrates machine learning agents to assess code correctness, syntax validation, and design alignment through automated review and correction mechanisms.
 
