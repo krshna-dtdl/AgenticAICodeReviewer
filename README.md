@@ -1,4 +1,4 @@
-# Intelligent Code Review and Correction using Agentic AI.
+# Agentic AI: Automating Code Reviews Against PUML Design
 
 This repository contains a toolset for reviewing Python code against PlantUML (PUML) designs. The solution integrates langchain agents to assess code correctness, syntax validation, and design alignment through automated review and correction mechanisms.
 
